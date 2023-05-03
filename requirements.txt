@@ -1,0 +1,13 @@
+ipykernel
+pandas 
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+flask
+xlrd
+flask_cors
+bs4
+requests
+-e .

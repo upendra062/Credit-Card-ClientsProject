@@ -1,0 +1,245 @@
+[ 2023-05-03 09:57:35,261 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-03 09:57:35,270 ] 186 werkzeug - INFO -  * Debugger PIN: 508-173-711
+[ 2023-05-03 09:57:43,789 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "GET / HTTP/1.1" 200 -
+[ 2023-05-03 09:57:43,847 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,849 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,852 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/boxicons/css/boxicons.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,853 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,855 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,858 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,861 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,863 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,867 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/clients/client-4.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,868 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/team/team-1.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,869 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/rocky.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,871 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/team/team-4.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,872 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,875 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,876 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,878 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,881 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/about.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,881 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,886 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/upendra.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,888 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/clients/client-1.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,890 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/clients/client-2.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,894 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,896 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,897 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,901 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/clients/client-3.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,902 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/clients/client-5.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,906 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/clients/client-7.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,907 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/clients/client-6.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,909 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/clients/client-8.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,912 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/portfolio/portfolio-1.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,914 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/portfolio/portfolio-3.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,915 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/portfolio/portfolio-2.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,918 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/portfolio/portfolio-4.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,920 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/portfolio/portfolio-5.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,925 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/portfolio/portfolio-6.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,926 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/portfolio/portfolio-7.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,929 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/portfolio/portfolio-8.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,932 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/portfolio/portfolio-9.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,933 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/krish.jpeg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,936 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/sudhanshu.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,937 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/hero-bg.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,939 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/features.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,941 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/Sunny.jpeg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,943 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/team/team-2.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,946 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/team/team-3.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,947 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/testimonials-bg.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,949 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/counts-img.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,951 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "[36mGET /static/img/cta-bg.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:57:43,956 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:57:43] "GET /static/vendor/remixicon/remixicon.woff2?t=1590207869815 HTTP/1.1" 200 -
+[ 2023-05-03 09:57:54,150 ] 24 root - INFO - Data Ingestion methods Starts
+[ 2023-05-03 09:57:54,271 ] 29 root - INFO - Dataset read as pandas Dataframe
+[ 2023-05-03 09:57:54,437 ] 33 root - INFO - Train test split
+[ 2023-05-03 09:57:54,584 ] 39 root - INFO - Ingestion of data is completed
+[ 2023-05-03 09:57:54,644 ] 55 root - INFO - Read train and test data completed
+[ 2023-05-03 09:57:54,648 ] 56 root - INFO - Train Dataframe Head : 
+       X1  X2  X3  X4  X5  X6  X7  X8  X9  X10  X11     X12     X13     X14     X15     X16    X17   X18    X19   X20    X21    X22    X23  Y
+0  240000   2   1   1  40  -2  -2  -2  -2   -2   -2       0       0       0       0       0      0     0      0     0      0      0      0  1
+1   50000   2   1   2  23  -1  -1  -1  -1   -1   -1    3430    2478    2299    4800    9810    660  2548   2321  4800   9810    660   2980  0
+2   50000   2   2   1  36   2   2   2   2    0    0   46203   45159   49125   47956   43578  35126     0   4700     0   2004   3500      0  0
+3  200000   2   3   1  54   6   5   4   3    2    2  110185  107665  104686  102549  101400      0     0      0     0      0      0      0  0
+4  240000   1   1   1  35  -1  -1  -1   0   -1   -1    2024    2007   21790   17102   13367  22659  2017  21817  1120  13434  22772  22820  0
+[ 2023-05-03 09:57:54,652 ] 57 root - INFO - Test Dataframe Head  : 
+       X1  X2  X3  X4  X5  X6  X7  X8  X9  X10  X11     X12     X13     X14     X15    X16    X17   X18   X19   X20   X21   X22   X23  Y
+0   30000   1   2   2  25   0   0   0   0    0    0    8864   10062   11581   12580  13716  14828  1500  2000  1500  1500  1500  2000  0
+1  150000   2   1   2  26   0   0   0   0    0    0  136736  125651  116684  101581  77741  77264  4486  4235  3161  2647  2669  2669  0
+2   70000   2   3   1  32   0   0   0   0    0    0   70122   69080   68530   69753  70111  70212  2431  3112  3000  2438  2500  2554  0
+3  130000   1   3   2  49   0   0   0   0    0   -1   20678   18956   16172   16898  11236   6944  1610  1808  7014    27  7011  4408  0
+4   50000   2   2   2  36   0   0   0   0    0    2   94228   47635   42361   19574  20295  19439  2000  1500  1000  1800     0  1000  1
+[ 2023-05-03 09:57:54,652 ] 59 root - INFO - Obtaining preprocessing object
+[ 2023-05-03 09:57:54,652 ] 24 root - INFO - Data Transformation initiated
+[ 2023-05-03 09:57:54,652 ] 29 root - INFO - Pipeline Initiated
+[ 2023-05-03 09:57:54,732 ] 75 root - INFO - Applying preprocessing object on training and testing datasets.
+[ 2023-05-03 09:57:54,736 ] 87 root - INFO - Preprocessor pickle file saved
+[ 2023-05-03 09:57:54,736 ] 22 root - INFO - Splitting Dependent and Independent variables
+[ 2023-05-03 09:58:03,092 ] 38 root - INFO - Model Report: {'LogisticRegression': 0.8087777777777778, 'RandomForestClassifier': 0.8132222222222222, 'XGBClassifier': 0.8151111111111111}
+[ 2023-05-03 09:58:03,094 ] 50 root - INFO - Best Model Found, Model Name: XGBClassifier, Accuracy Score : 0.8151111111111111
+[ 2023-05-03 09:58:03,097 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "GET /train HTTP/1.1" 200 -
+[ 2023-05-03 09:58:03,159 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,161 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,165 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,167 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,167 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/boxicons/css/boxicons.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,173 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,175 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,179 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,180 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,186 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,187 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,193 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,194 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,195 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,200 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,202 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,204 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/about.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,211 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/rocky.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,212 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/upendra.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,217 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/clients/client-1.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,224 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/clients/client-2.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,228 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/clients/client-5.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,230 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/clients/client-4.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,234 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/clients/client-6.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,235 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/clients/client-3.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,237 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/clients/client-7.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,240 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/clients/client-8.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,241 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/portfolio/portfolio-2.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,243 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/portfolio/portfolio-1.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,246 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/portfolio/portfolio-3.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,248 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/portfolio/portfolio-4.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,252 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/portfolio/portfolio-5.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,253 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/portfolio/portfolio-6.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,254 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/portfolio/portfolio-7.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,261 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/portfolio/portfolio-8.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,261 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/portfolio/portfolio-9.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,266 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/sudhanshu.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,268 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/krish.jpeg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,271 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/Sunny.jpeg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,273 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/team/team-1.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,278 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/team/team-2.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,280 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/team/team-3.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,283 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/team/team-4.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,285 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/hero-bg.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,289 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/cta-bg.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,290 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/features.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,295 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/counts-img.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:03,297 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:03] "[36mGET /static/img/testimonials-bg.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,597 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "GET /predict HTTP/1.1" 200 -
+[ 2023-05-03 09:58:09,655 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,657 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,661 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,665 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,667 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,668 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/boxicons/css/boxicons.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,672 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,675 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,681 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,682 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,683 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,687 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,687 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,690 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,695 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,697 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,698 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/img/about.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:58:09,700 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:58:09] "[36mGET /static/img/upendra.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,497 ] 105 root - INFO - DataFrame Gathered
+[ 2023-05-03 09:59:06,528 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-03 09:59:06,551 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,552 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,553 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,555 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/boxicons/css/boxicons.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,558 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,562 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,563 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,563 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,567 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,576 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,581 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,582 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,584 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,587 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,589 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,590 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,594 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/img/upendra.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:06,595 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:06] "[36mGET /static/img/cta-bg.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,632 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "GET / HTTP/1.1" 200 -
+[ 2023-05-03 09:59:24,695 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,696 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,696 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,699 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/boxicons/css/boxicons.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,702 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,704 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,705 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,705 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,708 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,712 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,714 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,715 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,718 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,719 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,722 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,725 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,728 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/clients/client-2.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,729 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/about.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,730 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/clients/client-3.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,734 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/clients/client-4.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,735 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/clients/client-5.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,738 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/clients/client-6.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,742 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/clients/client-7.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,746 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/portfolio/portfolio-1.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,750 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/clients/client-8.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,751 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/portfolio/portfolio-3.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,753 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/portfolio/portfolio-2.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,755 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/portfolio/portfolio-4.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,756 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/portfolio/portfolio-5.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,762 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/portfolio/portfolio-6.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,763 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/portfolio/portfolio-8.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,763 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/portfolio/portfolio-7.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,768 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/portfolio/portfolio-9.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,770 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/sudhanshu.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,773 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/Sunny.jpeg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,774 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/krish.jpeg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,779 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/upendra.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,780 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/team/team-1.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,781 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/rocky.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,784 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/team/team-2.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,787 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/team/team-4.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,788 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/team/team-3.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,793 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/hero-bg.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,794 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/clients/client-1.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,797 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/features.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,800 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/cta-bg.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,801 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/testimonials-bg.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:24,802 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:24] "[36mGET /static/img/counts-img.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,410 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "GET /reviewhome HTTP/1.1" 200 -
+[ 2023-05-03 09:59:27,465 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,465 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,466 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,470 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,471 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,477 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,479 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,483 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,484 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,489 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,493 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,494 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "GET /static/css/main.css HTTP/1.1" 200 -
+[ 2023-05-03 09:59:27,497 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/img/counts-img.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:27,499 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:27] "[36mGET /static/img/upendra.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:33,782 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "POST /review HTTP/1.1" 200 -
+[ 2023-05-03 09:59:33,816 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:33,825 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:33,829 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "[36mGET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:33,831 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "[36mGET /static/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:33,835 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "[36mGET /static/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:33,838 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "[36mGET /static/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:33,842 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "[36mGET /static/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:33,845 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "[36mGET /static/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:33,847 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:33,849 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "[36mGET /static/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:33,851 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "GET /static/css/mdb.dark.min.css HTTP/1.1" 200 -
+[ 2023-05-03 09:59:33,869 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "[36mGET /static/img/upendra.jpg HTTP/1.1[0m" 304 -
+[ 2023-05-03 09:59:33,870 ] 186 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 09:59:33] "[36mGET /static/img/testimonials-bg.jpg HTTP/1.1[0m" 304 -
